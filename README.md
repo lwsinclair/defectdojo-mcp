@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jamiesonio-defectdojo-mcp-badge.png)](https://mseep.ai/app/jamiesonio-defectdojo-mcp)
+
 # DefectDojo MCP Server
 
 [![PyPI version](https://badge.fury.io/py/defectdojo.svg)](https://badge.fury.io/py/defectdojo) <!-- Add this badge if/when published to PyPI -->
